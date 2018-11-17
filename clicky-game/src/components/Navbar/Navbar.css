@@ -1,15 +1,22 @@
+nav {
+    margin-bottom: 20px;
+};
+
 .navTitle {
     display: inline-block;
     font-weight: bold;
     text-align: center;
+    padding: 20px;
 };
 
 .navScore {
     display: inline-block;
     text-align: center;
+    padding: 20px;
 };
 
 .nav.Stats {
     display: inline-block;
     text-align: center;
+    padding: 20px;
 };

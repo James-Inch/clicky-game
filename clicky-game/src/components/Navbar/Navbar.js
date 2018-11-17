@@ -4,8 +4,8 @@ import "./Navbar.css";
 const Navbar = () => (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div>
-            <ul className="navbar-nav nav-item px-4">
-                <li className="navTitle">
+            <ul className="navbar-nav">
+                <li className="navTitle nav-item px-4">
                     Clicky Game
                 </li>
                 <li className="navScore nav-item px-4">
