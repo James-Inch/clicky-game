@@ -4,15 +4,15 @@ import "./Navbar.css";
 const Navbar = () => (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div>
-            <ul className="navbar-nav">
-                <li>
-                    <h1>Clicky Game</h1>
+            <ul className="navbar-nav nav-item px-4">
+                <li className="navTitle">
+                    Clicky Game
                 </li>
-                <li>
-                    <h2>Your current score is</h2>
+                <li className="navScore nav-item px-4">
+                    Your current score is
                 </li>
-                <li>
-                    <h2> Score:  | Top Score: </h2>
+                <li className="navStats nav-item px-4">
+                    Score:  | Top Score:
                 </li>
             </ul>
         </div>

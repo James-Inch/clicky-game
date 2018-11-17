@@ -1,6 +1,15 @@
-nav {
+.navTitle {
     display: inline-block;
-    padding: 26px 0;
-    /* width: 33.3%; */
+    font-weight: bold;
+    text-align: center;
+};
+
+.navScore {
+    display: inline-block;
+    text-align: center;
+};
+
+.nav.Stats {
+    display: inline-block;
     text-align: center;
 };
