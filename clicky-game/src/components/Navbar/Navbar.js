@@ -3,7 +3,7 @@ import "./Navbar.css";
 
 const Navbar = () => (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <div>
+        <div className="navdiv">
             <ul className="navbar-nav">
                 <li className="navTitle nav-item px-4">
                     Clicky Game
